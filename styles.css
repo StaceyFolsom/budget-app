@@ -2,12 +2,12 @@ body {
     font-family: "Caladea";
     background: linear-gradient(#fbc7d4, #9796f0);
     background-attachment: fixed;
-    text-align: center;
 }
 
 main {
     width: 60%;
     margin: auto;
+    text-align: center;
 }
 
 .main {
